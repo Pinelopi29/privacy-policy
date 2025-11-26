@@ -8,82 +8,70 @@ Room8 is committed to creating a safe, secure, and respectful environment for al
 
 **Room8 is restricted to users 18 years of age or older.**
 
-- All users must verify they meet the minimum age requirement of 18 during account creation
-- Age verification is enforced through date of birth validation
-- Users under 18 are not permitted to use the service
-- This policy is strictly enforced to comply with legal requirements and ensure user safety
+- All users must verify they meet the minimum age requirement of 18 during account creation.
+- Age verification is enforced through date of birth validation and ID checks.
+- Users under 18 are not permitted to use the service.
+- This policy is strictly enforced to comply with legal requirements and ensure user safety.
 
 ## Safety Measures
 
 ### User Verification
 
-- **Identity Verification**: All users must complete identity verification through Veriff
-- **Profile Verification**: Comprehensive profile verification process
-- **Age Verification**: Mandatory age verification during account creation (18+)
-- **Background Checks**: Enhanced screening for user safety
+- **Identity Verification**: We utilize a strict document verification process. Users may be required to upload government-issued identification which is analyzed for authenticity.
+- **Privacy-First Handling**: ID documents are processed securely and deleted immediately after the verification decision is reached. We do not retain copies of your ID documents.
+- **Profile Verification**: Profiles are reviewed to ensure they represent real individuals.
 
 ### Content Moderation
 
-- **Automated Monitoring**: AI-powered content scanning
-- **Human Review**: Dedicated moderation team
-- **User Reporting**: Easy-to-use reporting system for inappropriate behavior
-- **Proactive Detection**: Continuous monitoring of user interactions
+- **Automated Monitoring**: Systems are in place to detect inappropriate language and behavior.
+- **Human Review**: A dedicated moderation team reviews flagged reports and suspicious activities.
+- **User Reporting**: Easy-to-use reporting system allows the community to flag inappropriate behavior immediately.
 
 ### Privacy Protection
 
-- **Data Encryption**: All communications are encrypted
-- **Privacy Controls**: Users control their personal information
-- **Secure Storage**: Data stored with industry-standard security
-- **Limited Data Collection**: We only collect information necessary for the service
+- **Data Encryption**: All communications are encrypted using industry-standard protocols (SSL/TLS).
+- **Privacy Controls**: Users have full control over their personal profile visibility.
+- **Limited Data Collection**: We only collect information necessary to facilitate roommate matching.
 
 ## Reporting Safety Concerns
 
 If you encounter any safety concerns or inappropriate behavior:
 
-1. **In-App Reporting**: Use the report button in the app to report users or content
-2. **Email**: Contact our safety team at pinelopi29@hotmail.com
-3. **Emergency**: Contact local authorities immediately for urgent safety issues
+1.  **In-App Reporting**: Use the "Report User" button on any profile or chat.
+2.  **Email**: Contact our safety team directly at `room8.contactteam@gmail.com`.
+3.  **Emergency**: Contact local authorities immediately for urgent physical safety threats.
 
-All reports are reviewed within 24 hours, with priority given to safety concerns.
+**All reports are reviewed within 24 hours, with priority given to safety concerns.**
 
 ## Community Guidelines
 
 Users are expected to:
 
-- Treat all members with respect and kindness
-- Provide accurate information in their profiles
-- Report suspicious or inappropriate behavior
-- Comply with all applicable laws and regulations
-- Respect others' privacy and boundaries
+- Treat all members with respect and kindness.
+- Provide accurate information in their profiles.
+- Report suspicious or inappropriate behavior.
+- Respect others' privacy and boundaries.
 
-Violations of community guidelines may result in account suspension or permanent ban.
+**Zero Tolerance Policy:** Violations of community guidelines, including harassment, hate speech, or fraud, will result in an immediate account suspension or permanent ban.
 
 ## Compliance
 
-Room8 complies with all relevant safety laws and regulations, including:
+Room8 complies with relevant safety laws and regulations, including:
 
-- **Age Restrictions**: Strict enforcement of 18+ age requirement
-- **Data Protection Laws**: GDPR, CCPA, and other regional privacy regulations
-- **Platform Policies**: Google Play Store and Apple App Store safety policies
-- **Anti-Harassment Laws**: Compliance with local and international harassment prevention laws
-- **Consumer Protection**: Adherence to consumer protection regulations for roommate matching services
+- **GDPR**: We respect your data rights and provide full transparency on data usage.
+- **Platform Policies**: We adhere to strict Google Play Store and Apple App Store safety policies.
+- **Consumer Protection**: Adherence to regulations for roommate matching services.
 
 ## Safety Features
 
-- **Blocking**: Users can block other users at any time
-- **Reporting**: Multiple reporting options for different types of concerns
-- **Verification Badges**: Verified users are clearly marked
-- **Safe Communication**: In-app messaging with moderation
-- **Profile Review**: All profiles are reviewed before being made public
+- **Block & Report**: Users can block other users instantly to stop all communication.
+- **Verified Badge**: Look for the Blue Checkmark to identify users who have completed the ID verification process.
+- **Safe Communication**: We recommend keeping all communication inside the Room8 app until you feel comfortable meeting in person.
 
 ## Contact Information
 
-**Safety Team**: pinelopi29@hotmail.com
-
-**Response Time**: Within 24 hours for safety concerns
-
-**Emergency Contact**: For immediate safety threats, contact local law enforcement
+**Safety Team**: `room8.contactteam@gmail.com`
+**Response Time**: Within 24 hours for safety concerns.
 
 ---
-
-_Last updated: December 2024_
+*Last updated: December 2024*
